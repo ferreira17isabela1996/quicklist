@@ -1,6 +1,6 @@
 # QUICKLIST
 
-
+![Print do projeto final](projetoCover.png)
 
 ## 💻 Sobre o Projeto
 
